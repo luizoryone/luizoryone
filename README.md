@@ -1,7 +1,8 @@
 <!-- Banner (use o arquivo que você enviou, recomendo subir ao seu repositório pessoal) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/luizoryone/luizoryone/main/banner.png" alt="Luiz Oryone Banner" width="100%" />
-    <img src="https://raw.githubusercontent.com/luizoryone/luizoryone/main/banner.jpeg" alt="Luiz Oryone Banner" width="100%" />
+  <img = src="banner.png">
+  
 
 </p>
 
@@ -119,5 +120,6 @@ Profissional de TI com mais de 20 anos de experiência em suporte técnico e ope
 ---
 
 > 💡 *Seja bem-vindo(a) ao meu espaço de código, aprendizado e inovação!*
+
 
 
