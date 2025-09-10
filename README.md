@@ -1,14 +1,13 @@
 <!-- Banner (use o arquivo que você enviou, recomendo subir ao seu repositório pessoal) -->
-<p align="center">
-  <img src="banner.png" alt="Luiz Oryone Banner" width="50%" />
-  
-
-</p>
 
 <h1 align="center">Olá 👋, eu sou Luiz Oryone Moraes Lira</h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack | Especialista Técnico | Lifelong Learner</strong>  
+</p>
+
+<p align="center">
+  <img src="banner.png" alt="Luiz Oryone Banner" width="50%" />
 </p>
 
 ---
@@ -119,6 +118,7 @@ Profissional de TI com mais de 20 anos de experiência em suporte técnico e ope
 ---
 
 > 💡 *Seja bem-vindo(a) ao meu espaço de código, aprendizado e inovação!*
+
 
 
 
