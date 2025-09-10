@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.png" alt="Luiz Oryone Banner" width="50%" />
+  <img src="arvore2.png" alt="Luiz Oryone Banner" width="50%" />
 </p>
 
 ---
@@ -118,6 +118,7 @@ Profissional de TI com mais de 20 anos de experiência em suporte técnico e ope
 ---
 
 > 💡 *Seja bem-vindo(a) ao meu espaço de código, aprendizado e inovação!*
+
 
 
 
