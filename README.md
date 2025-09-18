@@ -111,7 +111,7 @@ Profissional de TI com mais de 20 anos de experiência em suporte técnico e ope
 ## 🎯 Metas em Andamento
 
 - [x] Concluir formação Full Stack no SENAI
-- [ ] Desenvolver projeto com IA Generativa
+- [x ] Desenvolver projeto com IA Generativa
 - [ ] Participar de projetos Open Source
 - [ ] Publicar biblioteca ou pacote útil no GitHub
 
