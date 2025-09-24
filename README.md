@@ -48,9 +48,9 @@ Profissional de TI com mais de 20 anos de experiência em suporte técnico e ope
 - Gestão de folha, contas e suporte a RH
 - Digitalização de processos contábeis e administrativos
 
-### Instrutor Freelancer – Escola Infantil Arco Íris (1996 – 1998)
+### Instrutor Freelancer – Escolas Ensino Fundamental II(2010 – 2012)
 - Aulas extracurriculares de informática e inglês
-- Atuação pedagógica com orientação familiar
+- Atuação pedagógica com orientação supervisionado 
 
 ---
 
@@ -118,6 +118,7 @@ Profissional de TI com mais de 20 anos de experiência em suporte técnico e ope
 ---
 
 > 💡 *Seja bem-vindo(a) ao meu espaço de código, aprendizado e inovação!*
+
 
 
 
